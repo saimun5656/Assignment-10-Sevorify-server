@@ -1,0 +1,371 @@
+[
+    {
+        "id": 1,
+        "name": "Sanjeev Kapoor",
+        "yearsOfExperience": 30,
+        "numOfRecipes": 200,
+        "numOfLikes": 12000,
+        "img": "https://example.com/sanjeev-kapoor.jpg",
+        "recipes": [
+            {
+                "name": "Butter Chicken",
+                "img": "https://media.istockphoto.com/id/618457124/photo/butter-chicken-served-with-homemade-indian-naan-bread.jpg?s=612x612&w=0&k=20&c=7FoiHoDtocfPvQIaRFfFani4e5lkfMTNl_619rTTh4g=",
+                "ingredients": [
+                    "Chicken",
+                    "Tomato",
+                    "Butter",
+                    "Cream",
+                    "Spices"
+                ],
+                "cookingMethod": "Marinate chicken, cook in tandoor, prepare tomato-butter-cream gravy, add chicken to the gravy, and serve hot.",
+                "rating": 4.8
+            },
+            {
+                "name": "Palak Paneer",
+                "img": "https://media.istockphoto.com/id/1146291429/photo/palak-paneer-or-spinach-and-cottage-cheese-curry-on-a-dark-background-traditional-indian-food.jpg?s=612x612&w=0&k=20&c=LuY5cNs9p9EonSEqRE8t7xgvCPjLfT2iPYhsg5ZRNkw=",
+                "ingredients": [
+                    "Paneer",
+                    "Spinach",
+                    "Onion",
+                    "Tomato",
+                    "Spices"
+                ],
+                "cookingMethod": "Boil spinach, grind it, sauté onion and tomato, add spices and paneer, and mix with spinach.",
+                "rating": 4.5
+            },
+            {
+                "name": "Rajma Chawal",
+                "img": "https://media.istockphoto.com/id/1164867990/photo/rajma-an-indian-cuisine-served-in-a-bowl-or-kidney-bean-curry.jpg?s=612x612&w=0&k=20&c=hxWqUjU3kAm4M07Gg5sMAuM4a4hDxDbcThlR5qg8Vn8=",
+                "ingredients": [
+                    "Rajma",
+                    "Rice",
+                    "Onion",
+                    "Tomato",
+                    "Spices"
+                ],
+                "cookingMethod": "Soak rajma overnight, boil it, sauté onion and tomato, add spices and rajma, and serve with rice.",
+                "rating": 4.2
+            },
+            {
+                "name": "Gulab Jamun",
+                "img": "https://media.istockphoto.com/id/163064596/photo/gulab-jamun.jpg?s=612x612&w=0&k=20&c=JvJ4AAs-N5pRzzRmVg1lG0talC3QoUt0ZGiO1NKz-kQ=",
+                "ingredients": [
+                    "Milk powder",
+                    "Flour",
+                    "Sugar",
+                    "Cardamom",
+                    "Oil"
+                ],
+                "cookingMethod": "Mix milk powder, flour, cardamom, and water, shape into balls, fry in oil, soak in sugar syrup, and serve.",
+                "rating": 4.6
+            },
+            {
+                "name": "Tandoori Chicken",
+                "img": "https://media.istockphoto.com/id/1396604313/photo/roasted-whole-chicken-legs-with-condiment-directly-above-photo.jpg?s=612x612&w=0&k=20&c=JDs72E-fX5SdcBQREta58T82W8zO_rFiKC7d1WwEEUE=",
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Ginger",
+                    "Garlic",
+                    "Spices"
+                ],
+                "cookingMethod": "Marinate chicken in yogurt, ginger, garlic, and spices, cook in tandoor or oven, and serve hot.",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "chef2.jpg",
+        "name": "Ranveer Brar",
+        "yearsOfExperience": 16,
+        "numRecipes": 8,
+        "numLikes": 456,
+        "recipes": [
+          {
+            "recipeName": "Butter Chicken",
+            "img": "https://media.istockphoto.com/id/618457124/photo/butter-chicken-served-with-homemade-indian-naan-bread.jpg?s=612x612&w=0&k=20&c=7FoiHoDtocfPvQIaRFfFani4e5lkfMTNl_619rTTh4g=",
+            "ingredients": [
+              "Chicken",
+              "Butter",
+              "Tomatoes",
+              "Cream",
+              "Spices"
+            ],
+            "cookingMethod": "1. In a pan, heat butter and add onions, ginger and garlic. 2. Add spices and tomato puree, cook for few minutes. 3. Add chicken and cook until tender. 4. Add cream and cook for another 5 minutes. 5. Serve hot with rice or naan.",
+            "rating": 4.5
+          },
+          {
+            "recipeName": "Samosa",
+            "img": "https://media.istockphoto.com/id/1326348438/photo/homemade-indian-potato-and-lentil-samosas.jpg?s=612x612&w=0&k=20&c=UfHznsHJXWIK0sabHO9W-xWw4ugiGTCr71uk7WSA-Mo=",
+            "ingredients": [
+              "Potatoes",
+              "Peas",
+              "Flour",
+              "Spices",
+              "Oil"
+            ],
+            "cookingMethod": "1. Boil and mash potatoes. 2. Heat oil and add spices, potatoes and peas. 3. Make dough with flour and water. 4. Roll out dough and fill with potato mixture. 5. Deep fry until golden brown. 6. Serve hot with chutney.",
+            "rating": 4.2
+          },
+          {
+            "recipeName": "Chaat",
+            "img": "https://media.istockphoto.com/id/1323287367/photo/chaat-dahi-vada-prepared-by-soaking-vadas-in-thick-curd-garnished-with-cumin-and-green-fresh.jpg?s=612x612&w=0&k=20&c=Xhq2bLXLlTE-cy8-UgkMUON9B-tPzKgsuZw3OWDK6Bc=",
+            "ingredients": [
+              "Potatoes",
+              "Onions",
+              "Chickpeas",
+              "Tomatoes",
+              "Chutney"
+            ],
+            "cookingMethod": "1. Boil and chop potatoes. 2. Add onions, chickpeas and tomatoes. 3. Add chutney and mix well. 4. Serve cold as a snack.",
+            "rating": 4.6
+          },
+          {
+            "recipeName": "Punjabi Kadhi",
+            "img": "https://media.istockphoto.com/id/1085155394/photo/malai-or-achari-paneer-in-a-gravy-made-using-red-gravy-and-green-capsicum-served-in-a-bowl.jpg?s=612x612&w=0&k=20&c=BULxHk38rN7HJsYb78ZZTrg4U9nFYeu9wOEGd3bqjy4=",
+            "ingredients": [
+              "Yogurt",
+              "Besan",
+              "Onions",
+              "Chilies",
+              "Spices"
+            ],
+            "cookingMethod": "1. Mix yogurt, besan and water. 2. Heat oil and add onions and chilies. 3. Add yogurt mixture and cook for 15-20 minutes. 4. Serve hot with rice.",
+            "rating": 4.3
+          },
+          {
+            "recipeName": "Chicken Biryani",
+            "img": "https://media.istockphoto.com/id/1333127665/photo/chicken-biryani-spicy-indian-malabar-biryani-hyderabadi-biryani-dum-biriyani-pulao-golden.jpg?s=612x612&w=0&k=20&c=63UXYPOISm8nJ8SNK79dDm0w1gY6jXzYQP0heL6fnOg=",
+            "ingredients": [
+              "Chicken",
+              "Basmati rice",
+              "Onions",
+              "Spices",
+              "Mint leaves"
+            ],
+            "cookingMethod": "1. Marinate chicken in spices and yogurt. 2. Fry onions until golden brown. 3. Layer chicken and rice in a pot. 4. Add fried onions and mint leaves. 5. Cook on low heat for 30-40 minutes. 6. Serve hot with raita.",
+            "rating": 4.8
+          }
+        ]
+      },
+
+      {
+        "id": 3,
+        "img": "chef3.jpg",
+        "Name": "Alok Singh",
+        "Years of experience": 10,
+        "Numbers of recipes": 50,
+        "number of likes": 2450,
+        "recipes": [
+          {
+            "recipeName": "Matar Paneer",
+            "img": "https://media.istockphoto.com/id/1077980738/photo/green-peas-or-matar-paneer-curry-recipe-served-in-a-bowl-selective-focus.jpg?s=612x612&w=0&k=20&c=SShuhVPIWBpUaJXqvdWqjPrh0AqsR6VR68GInZlyw6Y=",
+            "ingredients": [
+              "Paneer",
+              "Green peas",
+              "Tomatoes",
+              "Onions",
+              "Ginger"
+            ],
+            "cookingMethod": "1. Heat oil in a pan and fry paneer cubes until golden brown. 2. In another pan, heat oil and sauté onions and ginger until golden brown. 3. Add tomato puree and cook for 2-3 minutes. 4. Add boiled green peas and fried paneer. 5. Add salt, red chilli powder, garam masala powder, and cook for 5-6 minutes. 6. Serve hot with roti or rice.",
+            "rating": 4.8
+          },
+          {
+            "recipeName": "Chicken Tikka Masala",
+            "img": "https://media.istockphoto.com/id/1093661590/photo/traditional-indian-dish-chicken-tikka-masala-with-spicy-curry-meat-in-bowl-basmati-rice-bread.jpg?s=612x612&w=0&k=20&c=DCwxqEciOTaN14A13ym6F4p2UnprhNarn7OwIaOLNNo=",
+            "ingredients": [
+              "Boneless chicken",
+              "Yogurt",
+              "Ginger-garlic paste",
+              "Tomato puree",
+              "Spices"
+            ],
+            "cookingMethod": "1. Marinate chicken in yogurt, ginger-garlic paste, and spices for 2 hours. 2. Grill chicken until slightly charred. 3. In a pan, heat oil and add ginger-garlic paste. 4. Add tomato puree and cook for 5-6 minutes. 5. Add grilled chicken, salt, and garam masala powder. 6. Cook for another 5-6 minutes. 7. Serve hot with naan or rice.",
+            "rating": 4.9
+          },
+          {
+            "recipeName": "Samosa",
+            "img": "https://media.istockphoto.com/id/910844496/photo/vegetarian-samsa.jpg?s=612x612&w=0&k=20&c=FQ_7kgUgB9K4FFpa7PK7jrtNz487HhKGWAX_OGTQIJQ=",
+            "ingredients": [
+              "Potatoes",
+              "Peas",
+              "Coriander leaves",
+              "Spices",
+              "Pastry dough"
+            ],
+            "cookingMethod": "1. Boil potatoes and peas until tender. 2. Mash potatoes and mix with peas, coriander leaves, and spices. 3. Roll out pastry dough and cut into small circles. 4. Fill each circle with potato filling and fold into a triangle. 5. Deep fry samosas until golden brown. 6. Serve hot with chutney.",
+            "rating": 4.5
+          },
+          {
+            "recipeName": "Rajma Chawal",
+            "img": "https://media.istockphoto.com/id/1164867990/photo/rajma-an-indian-cuisine-served-in-a-bowl-or-kidney-bean-curry.jpg?s=612x612&w=0&k=20&c=hxWqUjU3kAm4M07Gg5sMAuM4a4hDxDbcThlR5qg8Vn8=",
+            "ingredients": [
+              "Kidney beans",
+              "Onions",
+              "Tomatoes",
+              "Ginger-garlic paste",
+              "Spices"
+            ],
+            "cookingMethod": "1. Soak kidney beans overnight and pressure cook until tender. 2. In a pan, heat oil and sauté onions until golden brown. 3. Add ginger-garlic paste and cook for 1-2 minutes. 4. Add tomato puree and cook for 5-6 minutes. 5. Add boiled kidney beans, salt, and garam masala powder. 6. Cook for another 5-6 minutes. 7. Serve hot with rice.",
+            "rating": 4.7
+          }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://example.com/chef4.jpg",
+        "name": "Rahul Gupta",
+        "yearsOfExperience": 10,
+        "numRecipes": 40,
+        "numLikes": 2300,
+        "recipes": [
+          {
+            "recipeImg": "https://media.istockphoto.com/id/693946394/photo/paneer-tikka-kabab-tandoori-indian-cheese-skewers-or-barbecue-paneer-selective-focus.jpg?s=612x612&w=0&k=20&c=GQPLtL4HYhnHpqB5CmCJ2kBYuwt_kKY-2-3vThuImS8=",
+            "recipeName": "Paneer Tikka Masala",
+            "ingredients": [
+              "Paneer",
+              "Onion",
+              "Tomato",
+              "Ginger",
+              "Garlic"
+            ],
+            "cookingMethod": "1. In a pan, heat oil and add chopped onions, ginger and garlic. Fry till the onions turn golden brown. \n2. Add chopped tomatoes and fry until they turn mushy. \n3. Add spices like coriander powder, cumin powder, turmeric, and garam masala. Fry for a minute. \n4. Add paneer cubes and cook until they turn light golden brown. \n5. Finally, add fresh cream and coriander leaves. Serve hot with naan or roti.",
+            "rating": 4.5
+          },
+          {
+            "recipeImg": "https://media.istockphoto.com/id/1196005824/photo/fried-cauliflower-with-potatoes.jpg?s=612x612&w=0&k=20&c=RhiTbVHJGy2uVWMREGYxkNYKSPSHYHBe19eAsi_fr4o=",
+            "recipeName": "Aloo Gobi",
+            "ingredients": [
+              "Potatoes",
+              "Cauliflower",
+              "Onion",
+              "Tomato",
+              "Cumin seeds"
+            ],
+            "cookingMethod": "1. Heat oil in a pan and add cumin seeds. Fry for a minute.\n2. Add chopped onion and fry until it turns golden brown.\n3. Add chopped tomatoes and fry until it turns mushy.\n4. Add chopped potatoes and cauliflower, along with salt and turmeric powder. Mix well.\n5. Cover the pan and cook for 10-15 minutes, until the vegetables are cooked.\n6. Finally, add coriander leaves and garam masala powder. Mix well and serve hot with rice or roti.",
+            "rating": 4.2
+          },
+          {
+            "recipeImg": "https://media.istockphoto.com/id/1250399521/photo/vegetarian-palak-paneer.jpg?s=612x612&w=0&k=20&c=khML8mcnNouCRYjjCw_MrEuyAs1FgZ9rw9xV3jG8Dbk=",
+            "recipeName": "Palak Paneer",
+            "ingredients": [
+              "Spinach",
+              "Paneer",
+              "Onion",
+              "Tomato",
+              "Ginger"
+            ],
+            "cookingMethod": "1. Blanch spinach leaves and blend them into a smooth paste. \n2. Heat oil in a pan and add cumin seeds. Fry for a minute. \n3. Add chopped onion and fry until it turns golden brown. \n4. Add ginger-garlic paste and fry for a minute. \n5. Add chopped tomatoes and fry until it turns mushy. \n6. Add the spinach puree and cook for 5-7 minutes. \n7. Finally, add paneer cubes and cook for 2-3 minutes. Serve hot with naan or rice.",
+            "rating": 4.7
+          },
+          {
+            "recipeName": "Punjabi Kadhi",
+            "img": "https://media.istockphoto.com/id/1085155394/photo/malai-or-achari-paneer-in-a-gravy-made-using-red-gravy-and-green-capsicum-served-in-a-bowl.jpg?s=612x612&w=0&k=20&c=BULxHk38rN7HJsYb78ZZTrg4U9nFYeu9wOEGd3bqjy4=",
+            "ingredients": [
+              "Yogurt",
+              "Besan",
+              "Onions",
+              "Chilies",
+              "Spices"
+            ],
+            "cookingMethod": "1. Mix yogurt, besan and water. 2. Heat oil and add onions and chilies. 3. Add yogurt mixture and cook for 15-20 minutes. 4. Serve hot with rice.",
+            "rating": 4.3
+          }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Garima Arora",
+        "img": "https://example.com/sanjeev-kapoor.jpg",
+        "yearsOfExperience": 30,
+        "numberOfRecipes": 1000,
+        "numberOfLikes": 50000,
+        "recipes": [
+          {
+            "recipeName": "Butter Chicken",
+            "img": "https://media.istockphoto.com/id/618457124/photo/butter-chicken-served-with-homemade-indian-naan-bread.jpg?s=612x612&w=0&k=20&c=7FoiHoDtocfPvQIaRFfFani4e5lkfMTNl_619rTTh4g=",
+            "ingredients": ["chicken", "tomatoes", "butter", "cream", "spices"],
+            "cookingMethod": "1. Heat butter in a pan and add spices.\n2. Add chicken and cook until golden.\n3. Add tomatoes and cook until they break down.\n4. Add cream and simmer until sauce thickens.",
+            "rating": 4.5
+          },
+          {
+            "recipeName": "Paneer Tikka",
+            "img": "https://media.istockphoto.com/id/693946394/photo/paneer-tikka-kabab-tandoori-indian-cheese-skewers-or-barbecue-paneer-selective-focus.jpg?s=612x612&w=0&k=20&c=GQPLtL4HYhnHpqB5CmCJ2kBYuwt_kKY-2-3vThuImS8=",
+            "ingredients": ["paneer", "yogurt", "spices", "lemon juice", "onion"],
+            "cookingMethod": "1. Mix yogurt, spices, and lemon juice to make marinade.\n2. Cut paneer and onion into cubes and marinate for 30 minutes.\n3. Skewer paneer and onion and grill until browned.",
+            "rating": 4.0
+          },
+          {
+            "recipeName": "Aloo Gobi",
+            "img": "https://media.istockphoto.com/id/1196005824/photo/fried-cauliflower-with-potatoes.jpg?s=612x612&w=0&k=20&c=RhiTbVHJGy2uVWMREGYxkNYKSPSHYHBe19eAsi_fr4o=",
+            "ingredients": ["potatoes", "cauliflower", "spices", "tomatoes", "peas"],
+            "cookingMethod": "1. Heat oil in a pan and add spices.\n2. Add potatoes and cauliflower and cook until slightly browned.\n3. Add tomatoes and peas and cook until vegetables are tender.",
+            "rating": 3.8
+          },
+          {
+            "recipeName": "Rajma Masala",
+            "img": "https://media.istockphoto.com/id/1284710175/photo/rajma-masala-curry-in-black-bowl-on-dark-slate-table-top-red-kidney-bean-dal-is-indian.jpg?s=612x612&w=0&k=20&c=aqCztvW1o8bYHF9g_6qhBQoziWYbx7zl6cGSr8WnLFQ=",
+            "ingredients": ["kidney beans", "tomatoes", "onion", "spices", "ghee"],
+            "cookingMethod": "1. Soak kidney beans overnight and pressure cook until they are soft.\n2. Heat ghee in a pan and add spices.\n3. Add onion and cook until golden.\n4. Add tomatoes and cook until they break down.\n5. Add kidney beans and simmer until the curry thickens.",
+            "rating": 4.2
+          },
+          {
+            "recipeName": "Chicken Biryani",
+            "img": "https://example.com/chicken-biryani.jpg",
+            "ingredients": ["chicken", "rice", "spices", "yogurt", "onion"],
+            "cookingMethod": "1. Marinate chicken in yogurt and spices for 1 hour.\n2. Cook rice and set aside.\n3. Heat oil in a pan and fry onions until golden.\n4. Add chicken and cook until it's done.\n5. Layer rice and chicken in a pot and cook over low heat until heated through.",
+            "rating": 4.4
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "img": "https://www.example.com/images/chef6.jpg",
+        "name": "Priya Khanna",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 70,
+        "numberOfLikes": 24000,
+        "recipes": [
+        {
+        "img": "https://media.istockphoto.com/id/1157267387/photo/mix-vegetable-curry-indian-main-course-recipe-contains-carrots-cauliflower-green-peas-and.jpg?s=612x612&w=0&k=20&c=6yTu33AbdOtm04UiD2Za0TDOiiqqP2dw71A_FZXZ9bA=",
+        "recipeName": "Kadhai Paneer",
+        "ingredients": [
+        "Paneer cubes",
+        "Capsicum",
+        "Onion",
+        "Tomato",
+        "Spices"
+        ],
+        "cookingMethod": "1. Heat oil in a kadhai.\n2. Add onion and sauté until golden brown.\n3. Add tomato and cook for 2-3 minutes.\n4. Add capsicum and cook for another 2-3 minutes.\n5. Add paneer cubes and cook for 2-3 minutes.\n6. Add spices and mix well.\n7. Serve hot with naan or roti.",
+        "rating": 4.5
+        },
+        {
+        "img": "https://media.istockphoto.com/id/1295943731/photo/chana-masala-or-chole-in-black-bowl-on-dark-slate-table-top-indian-cuisine-veg-chickpeas.jpg?s=612x612&w=0&k=20&c=FI-Qt3ufxWPGNmyZxnezSORGtM4As1McZj4FDOaF1cw=",
+        "recipeName": "Chhole Bhature",
+        "ingredients": [
+        "Chickpeas",
+        "Onion",
+        "Tomato",
+        "Spices",
+        "Maida"
+        ],
+        "cookingMethod": "1. Soak chickpeas overnight and pressure cook until they are soft.\n2. Heat oil in a pan.\n3. Add onion and sauté until golden brown.\n4. Add tomato and cook for 2-3 minutes.\n5. Add spices and mix well.\n6. Add the cooked chickpeas and cook for 5-7 minutes.\n7. For bhature, mix maida with water and knead the dough. Let it rest for 30 minutes.\n8. Roll the dough into small circles and deep fry in oil.\n9. Serve hot with chhole.",
+        "rating": 4.8
+        },
+        {
+        "img": "https://media.istockphoto.com/id/1250399521/photo/vegetarian-palak-paneer.jpg?s=612x612&w=0&k=20&c=khML8mcnNouCRYjjCw_MrEuyAs1FgZ9rw9xV3jG8Dbk=",
+        "recipeName": "Palak Paneer",
+        "ingredients": [
+        "Paneer cubes",
+        "Spinach",
+        "Onion",
+        "Tomato",
+        "Spices"
+        ],
+        "cookingMethod": "1. Blanch spinach and make a puree.\n2. Heat oil in a pan.\n3. Add onion and sauté until golden brown.\n4. Add tomato and cook for 2-3 minutes.\n5. Add spinach puree and cook for 2-3 minutes.\n6. Add paneer cubes and cook for 2-3 minutes.\n7. Add spices and mix well.\n8. Serve hot with naan or roti.",
+        "rating": 4.7
+        }
+    ]
+}
+]
