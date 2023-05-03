@@ -5,7 +5,7 @@
         "yearsOfExperience": 30,
         "numOfRecipes": 200,
         "numOfLikes": 12000,
-        "img": "https://example.com/sanjeev-kapoor.jpg",
+        "img": "https://www.auditionform.in/wp-content/uploads/2020/06/Sanjeev-Kapoor.jpg",
         "recipes": [
             {
                 "name": "Butter Chicken",
@@ -76,8 +76,8 @@
     },
     {
         "id": 2,
-        "img": "chef2.jpg",
-        "name": "Ranveer Brar",
+        "img": "https://auditiondateandplace.com/news/wp-content/uploads/2020/06/Popular-Indian-Chef.jpg",
+        "name": "RVikas Khanna",
         "yearsOfExperience": 16,
         "numRecipes": 8,
         "numLikes": 456,
@@ -152,8 +152,8 @@
 
       {
         "id": 3,
-        "img": "chef3.jpg",
-        "Name": "Alok Singh",
+        "img": "https://images.indianexpress.com/2022/03/ranveer-brar-1.jpg?w=640",
+        "Name": "Ranveer Brar",
         "Years of experience": 10,
         "Numbers of recipes": 50,
         "number of likes": 2450,
@@ -214,11 +214,11 @@
     },
     {
         "id": 4,
-        "img": "https://example.com/chef4.jpg",
-        "name": "Rahul Gupta",
+        "img": "https://dusbus.com/wp-content/uploads/2020/09/ManeetChauhan.jpg",
+        "name": "Asma Khan",
         "yearsOfExperience": 10,
         "numRecipes": 40,
-        "numLikes": 2300,
+        "numLikes": 200,
         "recipes": [
           {
             "recipeImg": "https://media.istockphoto.com/id/693946394/photo/paneer-tikka-kabab-tandoori-indian-cheese-skewers-or-barbecue-paneer-selective-focus.jpg?s=612x612&w=0&k=20&c=GQPLtL4HYhnHpqB5CmCJ2kBYuwt_kKY-2-3vThuImS8=",
@@ -277,7 +277,7 @@
     {
         "id": 5,
         "name": "Garima Arora",
-        "img": "https://example.com/sanjeev-kapoor.jpg",
+        "img": "https://thelocaltongue.com/wp-content/uploads/2019/10/garima-arora-gaa-bangkok-the-local-tongue-770x1020.jpg",
         "yearsOfExperience": 30,
         "numberOfRecipes": 1000,
         "numberOfLikes": 50000,
@@ -321,8 +321,8 @@
       },
       {
         "id": 6,
-        "img": "https://www.example.com/images/chef6.jpg",
-        "name": "Priya Khanna",
+        "img": "https://dusbus.com/wp-content/uploads/2020/09/RavinderBhogal.jpg",
+        "name": "Dipna Anand",
         "yearsOfExperience": 15,
         "numberOfRecipes": 70,
         "numberOfLikes": 24000,
