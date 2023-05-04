@@ -2,7 +2,7 @@
     {
       "id": 1,
       "recipeName": "Masala Dosa",
-     "recipeImg": "",
+     "recipeImg": "https://media.istockphoto.com/id/1413555828/photo/crispy-masala-dosa-is-a-popular-south-indian-food-item-served-with-tomato-chutney-coconut.jpg?s=612x612&w=0&k=20&c=4bc2ZpJ7WrS2eLAjEzkLjNE3LPPqZTQLEvu0mU_BHOA=",
       "ingredients": [
         "1 cup rice",
         "1/2 cup urad dal",
@@ -32,7 +32,7 @@
     {
       "id": 3,
       "recipeName": "Hyderabadi Biryani",
-     "recipeImg": "https://i.imgur.com/SSW29Qv.jpg",
+     "recipeImg": "https://media.istockphoto.com/id/1086974196/photo/keema-or-kheema-biryani-fragrant-and-spicy-minced-lamb-or-goat-or-chicken-cooked-in-range-of.jpg?s=612x612&w=0&k=20&c=CSx2OuaMm0NtRKcDvCx0yME8Dd5J7OdNYuKCQME6cMk=",
       "ingredients": [
         "1 kg chicken",
         "3 cups basmati rice",
@@ -47,7 +47,7 @@
     {
         "id": 4,
         "recipeName": "Aloo Paratha",
-       "recipeImg": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/08/aloo-paratha-recipe-2.jpg",
+       "recipeImg": "https://media.istockphoto.com/id/1418692758/photo/north-indian-famous-food-aloo-paratha-with-mango-pickle-and-butter.jpg?s=612x612&w=0&k=20&c=JDbBS-5EcSOKUeossLW2NufdKE0Mg7zFZV5ZBLdbpUE=",
         "ingredients": ["2 cups whole wheat flour", "3 medium-sized potatoes", "1 tsp cumin seeds", "1 tsp garam masala", "Salt to taste"],
         "rating": 4.5,
         "cookingMethod": "1. Mash the boiled potatoes and mix with cumin seeds, garam masala and salt.\n2. Knead the dough by mixing wheat flour and water.\n3. Roll the dough balls and stuff it with the potato mixture.\n4. Cook the parathas on a hot tawa with ghee or oil.\n5. Serve hot with chutney or pickle.",
@@ -56,7 +56,7 @@
       {
         "id": 5,
         "recipeName": "Masala Omelette",
-       "recipeImg": "https://www.ndtv.com/cooks/images/masala.omelette-620.jpg",
+       "recipeImg": "https://media.istockphoto.com/id/897995030/photo/indian-masala-egg-omelet.jpg?s=612x612&w=0&k=20&c=XBeJrNWuAc1WXKysF7g4t0r69JjPXQJYk3kVdGmVonU=",
         "ingredients": ["2 eggs", "1/4 cup chopped onions", "1/4 cup chopped tomatoes", "1/4 cup chopped bell peppers", "1/4 tsp turmeric powder"],
         "rating": 4.2,
         "cookingMethod": "1. Whisk the eggs with turmeric powder.\n2. Add chopped onions, tomatoes and bell peppers.\n3. Heat a non-stick pan and pour the egg mixture.\n4. Cook until golden brown on both sides.\n5. Serve hot with bread or pav.",
@@ -65,7 +65,7 @@
       {
         "id": 6,
         "recipeName": "Mango Lassi",
-       "recipeImg": "https://www.thespruceeats.com/thmb/OZYh-1UbXp7xjzkP5bZ8FzoS4h4=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/mango-lassi-1957804-Hero-5b226c6446e0fb0025073e4b.jpg",
+       "recipeImg": "https://media.istockphoto.com/id/953718476/photo/mango-lassi-or-smoothie-in-big-glasses-with-curd-cut-fruit-pieces-and-blender.jpg?s=612x612&w=0&k=20&c=bayxlvHBvJt1bZmRFdUcx83GKhFez3AsMMJJS2-T4Zk=",
         "ingredients": [
           "1 cup chopped ripe mango",
           "1 cup plain yogurt",
@@ -80,7 +80,7 @@
       {
         "id": 7,
         "recipeName": "Masala Chai",
-       "recipeImg": "https://www.thespruceeats.com/thmb/OWU6OZC6ViYr3qKPU0G0f2Qe-mo=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/masala-chai-tea-1957737-hero-5b23b3a23de42300378c2ad4.jpg",
+       "recipeImg": "https://media.istockphoto.com/id/1130922737/photo/chai-masala-tea-in-rustic-cup-with-spices.jpg?s=612x612&w=0&k=20&c=pTQY_OFJ84HcA3qU6_l0KL_Tt1QRCM5277SLbK73Q_g=",
         "ingredients": [
           "2 cups water",
           "1 cinnamon stick",
@@ -95,7 +95,7 @@
       {
         "id": 9,
         "recipeName": "Pav Bhaji",
-       "recipeImg": "https://i.ndtvimg.com/i/2017-10/pav-bhaji_620x350_71507802590.jpg",
+       "recipeImg": "https://media.istockphoto.com/id/1391619632/photo/pav-bhaji-bread-toast.jpg?s=612x612&w=0&k=20&c=BNxco98FEpAS5lCeRdVhBv6Me6PTLkbv8knxkcYqIKc=",
         "ingredients": ["Potatoes", "Tomatoes", "Onion", "Peas", "Capsicum"],
         "rating": 4.2,
         "cookingMethod": "1. Boil and mash the potatoes.\n2. Cook the peas, capsicum, and onions with spices.\n3. Add mashed potatoes, tomatoes, and water to make a thick gravy.\n4. Serve hot with buttered pav.",
@@ -104,7 +104,7 @@
       {
         "id": 10,
         "recipeName": "Lamb Biryani",
-       "recipeImg": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/06/Mutton-Biryani-2.jpg",
+       "recipeImg": "https://media.istockphoto.com/id/1457374980/photo/beef-biryani.jpg?s=612x612&w=0&k=20&c=VAjrr8yTmEuh3ZysKJAgzTtoHRg0vVKwVVgXiFAMyNc=",
         "ingredients": ["Basmati Rice", "Lamb", "Onion", "Tomato", "Yogurt"],
         "rating": 4.9,
         "cookingMethod": "1. Cook the rice and keep aside.\n2. Cook the lamb with spices, onion, tomato, and yogurt.\n3. Layer the rice and lamb in a pot and cook on low heat for 20-25 minutes.\n4. Serve hot.",
