@@ -9,7 +9,7 @@
         "img": "https://www.auditionform.in/wp-content/uploads/2020/06/Sanjeev-Kapoor.jpg",
         "recipes": [
             {
-                "name": "Butter Chicken",
+                "recipeName": "Butter Chicken",
                 "recipeImg": "https://media.istockphoto.com/id/618457124/photo/butter-chicken-served-with-homemade-indian-naan-bread.jpg?s=612x612&w=0&k=20&c=7FoiHoDtocfPvQIaRFfFani4e5lkfMTNl_619rTTh4g=",
                 "ingredients": [
                     "Chicken",
@@ -22,7 +22,7 @@
                 "rating": 4.8
             },
             {
-                "name": "Palak Paneer",
+                "recipeName": "Palak Paneer",
                 "recipeImg": "https://media.istockphoto.com/id/1146291429/photo/palak-paneer-or-spinach-and-cottage-cheese-curry-on-a-dark-background-traditional-indian-food.jpg?s=612x612&w=0&k=20&c=LuY5cNs9p9EonSEqRE8t7xgvCPjLfT2iPYhsg5ZRNkw=",
                 "ingredients": [
                     "Paneer",
@@ -35,7 +35,7 @@
                 "rating": 4.5
             },
             {
-                "name": "Rajma Chawal",
+                "recipeName": "Rajma Chawal",
                 "recipeImg": "https://media.istockphoto.com/id/1164867990/photo/rajma-an-indian-cuisine-served-in-a-bowl-or-kidney-bean-curry.jpg?s=612x612&w=0&k=20&c=hxWqUjU3kAm4M07Gg5sMAuM4a4hDxDbcThlR5qg8Vn8=",
                 "ingredients": [
                     "Rajma",
@@ -48,7 +48,7 @@
                 "rating": 4.2
             },
             {
-                "name": "Gulab Jamun",
+                "recipeName": "Gulab Jamun",
                 "recipeImg": "https://media.istockphoto.com/id/163064596/photo/gulab-jamun.jpg?s=612x612&w=0&k=20&c=JvJ4AAs-N5pRzzRmVg1lG0talC3QoUt0ZGiO1NKz-kQ=",
                 "ingredients": [
                     "Milk powder",
@@ -61,7 +61,7 @@
                 "rating": 4.6
             },
             {
-                "name": "Tandoori Chicken",
+                "recipeName": "Tandoori Chicken",
                 "recipeImg": "https://media.istockphoto.com/id/1396604313/photo/roasted-whole-chicken-legs-with-condiment-directly-above-photo.jpg?s=612x612&w=0&k=20&c=JDs72E-fX5SdcBQREta58T82W8zO_rFiKC7d1WwEEUE=",
                 "ingredients": [
                     "Chicken",
