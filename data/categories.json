@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Breakfast",
+        "id": "1",
+        "img": "https://media.istockphoto.com/id/1373152531/photo/having-delicious-breakfast-at-restaurant.jpg?s=612x612&w=0&k=20&c=87QWNQjXEPr6KdXmOivWmR3YR-y0b056wyD6Eoi3iXQ=",
+        "numOfRecipes":5
+    },
+    {
+        "name": "Lunch",
+        "id": "2",
+        "img":"https://media.istockphoto.com/id/1317535161/photo/table-full-of-food-for-family-top-view.jpg?s=612x612&w=0&k=20&c=lA-14Isxb0EtTDCyi8xyGomviteA8lL8CFhxWdUQzvI=",
+        "numOfRecipes":3
+    },
+    {
+        "name": "Dinner",
+        "id": "3",
+        "img":"https://media.istockphoto.com/id/1347890570/photo/easter-dinner-table-with-ham-asparagus-and-cake.jpg?s=612x612&w=0&k=20&c=mgXgUBasnUJwQA6QmPYmONpm7S3sx7bQ3Y5fhCn2cBU=",
+        "numOfRecipes":3
+    },
+    {
+        "name": "Dirnk",
+        "id": "4",
+        "img":"https://media.istockphoto.com/id/470509876/photo/spinach-smoothie.jpg?s=612x612&w=0&k=20&c=xKa3EzhEa1i1-VzDO599g0ieMlEcXVrVY0oBq-mvjEY=",
+        "numOfRecipes":2
+    }
+]

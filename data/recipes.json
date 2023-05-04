@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "name": "Masala Dosa",
+      "img": "",
+      "ingredients": [
+        "1 cup rice",
+        "1/2 cup urad dal",
+        "1/2 tsp fenugreek seeds",
+        "1/2 cup poha",
+        "Oil"
+      ],
+      "cookingMethod": "1. Soak rice, dal, and fenugreek seeds for 5-6 hours. Grind them to a fine batter with water.\n2. Add poha and mix well. Cover and ferment overnight.\n3. Heat a non-stick tawa, pour a ladleful of batter and spread in a circular motion.\n4. Drizzle oil on the edges and cook until golden brown. Flip and cook the other side.\n5. Serve hot with chutney and sambar.",
+      "categoryId": 1,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Butter Chicken",
+      "img": "https://media.istockphoto.com/id/618457124/photo/butter-chicken-served-with-homemade-indian-naan-bread.jpg?s=612x612&w=0&k=20&c=7FoiHoDtocfPvQIaRFfFani4e5lkfMTNl_619rTTh4g=",
+      "ingredients": [
+        "1 kg chicken",
+        "2 cups yogurt",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder"
+      ],
+      "cookingMethod": "1. Marinate chicken with yogurt, ginger-garlic paste, turmeric, and chili powder for 2 hours.\n2. Heat oil in a pan, add chicken and cook until browned.\n3. Add tomato puree, salt, garam masala, and kasuri methi. Cook for 10-12 minutes.\n4. Add cream and butter, and cook for another 2-3 minutes.\n5. Serve hot with rice or naan.",
+      "categoryId": 3,
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Hyderabadi Biryani",
+      "img": "https://i.imgur.com/SSW29Qv.jpg",
+      "ingredients": [
+        "1 kg chicken",
+        "3 cups basmati rice",
+        "1 cup yogurt",
+        "2 tbsp ginger-garlic paste",
+        "2 tbsp biryani masala"
+      ],
+      "cookingMethod": "1. Marinate chicken with yogurt, ginger-garlic paste, and biryani masala for 2 hours.\n2. Soak rice in water for 30 minutes. Boil water with salt, cloves, and cardamom. Add rice and cook until half done.\n3. In a separate pan, heat oil and add sliced onions. Cook until browned.\n4. Layer the rice and chicken in a biryani pot. Top with fried onions, mint leaves, and saffron.\n5. Cook on low heat for 20-25 minutes. Serve hot.",
+      "categoryId": 3,
+      "rating": 4.9
+    },
+    {
+        "id": 4,
+        "name": "Aloo Paratha",
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/08/aloo-paratha-recipe-2.jpg",
+        "ingredients": ["2 cups whole wheat flour", "3 medium-sized potatoes", "1 tsp cumin seeds", "1 tsp garam masala", "Salt to taste"],
+        "rating": 4.5,
+        "cookingMethod": "1. Mash the boiled potatoes and mix with cumin seeds, garam masala and salt.\n2. Knead the dough by mixing wheat flour and water.\n3. Roll the dough balls and stuff it with the potato mixture.\n4. Cook the parathas on a hot tawa with ghee or oil.\n5. Serve hot with chutney or pickle.",
+        "categoryId": 1
+      },
+      {
+        "id": 5,
+        "name": "Masala Omelette",
+        "img": "https://www.ndtv.com/cooks/images/masala.omelette-620.jpg",
+        "ingredients": ["2 eggs", "1/4 cup chopped onions", "1/4 cup chopped tomatoes", "1/4 cup chopped bell peppers", "1/4 tsp turmeric powder"],
+        "rating": 4.2,
+        "cookingMethod": "1. Whisk the eggs with turmeric powder.\n2. Add chopped onions, tomatoes and bell peppers.\n3. Heat a non-stick pan and pour the egg mixture.\n4. Cook until golden brown on both sides.\n5. Serve hot with bread or pav.",
+        "categoryId": 1
+      },
+      {
+        "id": 6,
+        "name": "Mango Lassi",
+        "img": "https://www.thespruceeats.com/thmb/OZYh-1UbXp7xjzkP5bZ8FzoS4h4=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/mango-lassi-1957804-Hero-5b226c6446e0fb0025073e4b.jpg",
+        "ingredients": [
+          "1 cup chopped ripe mango",
+          "1 cup plain yogurt",
+          "1/2 cup milk",
+          "1/4 cup white sugar",
+          "1/2 tsp ground cardamom"
+        ],
+        "rating": 4.5,
+        "cookingMethod": "1. Add all ingredients to a blender and blend until smooth.\n2. Serve chilled.",
+        "categoryId": 4
+      },
+      {
+        "id": 7,
+        "name": "Masala Chai",
+        "img": "https://www.thespruceeats.com/thmb/OWU6OZC6ViYr3qKPU0G0f2Qe-mo=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/masala-chai-tea-1957737-hero-5b23b3a23de42300378c2ad4.jpg",
+        "ingredients": [
+          "2 cups water",
+          "1 cinnamon stick",
+          "4 whole cloves",
+          "4 green cardamom pods",
+          "2 black tea bags"
+        ],
+        "rating": 4.2,
+        "cookingMethod": "1. Add water, cinnamon stick, cloves, and cardamom pods to a pot and bring to a boil.\n2. Lower heat and simmer for 5 minutes.\n3. Add tea bags and steep for 2-3 minutes.\n4. Strain tea and serve hot with milk and sugar if desired.",
+        "categoryId": 4
+      },
+      {
+        "id": 9,
+        "name": "Pav Bhaji",
+        "img": "https://i.ndtvimg.com/i/2017-10/pav-bhaji_620x350_71507802590.jpg",
+        "ingredients": ["Potatoes", "Tomatoes", "Onion", "Peas", "Capsicum"],
+        "rating": 4.2,
+        "cookingMethod": "1. Boil and mash the potatoes.\n2. Cook the peas, capsicum, and onions with spices.\n3. Add mashed potatoes, tomatoes, and water to make a thick gravy.\n4. Serve hot with buttered pav.",
+        "categoryId": 2
+      },
+      {
+        "id": 10,
+        "name": "Lamb Biryani",
+        "img": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/06/Mutton-Biryani-2.jpg",
+        "ingredients": ["Basmati Rice", "Lamb", "Onion", "Tomato", "Yogurt"],
+        "rating": 4.9,
+        "cookingMethod": "1. Cook the rice and keep aside.\n2. Cook the lamb with spices, onion, tomato, and yogurt.\n3. Layer the rice and lamb in a pot and cook on low heat for 20-25 minutes.\n4. Serve hot.",
+        "categoryId": 1
+      }
+]
