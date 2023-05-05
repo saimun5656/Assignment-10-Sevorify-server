@@ -20,8 +20,13 @@ app.get('/chef/:id',(req,res)=>{
 app.get('/categories',(req,res)=>{
     res.send(categories)
 })
-app.get('/recipes',(req,res)=>{
+app.get('/recipe/0',(req,res)=>{
     res.send(recipes)
+})
+app.get('/recipe/:id',(req,res)=>{
+    const id =parseInt(req.params.id)
+    const filtered =recipes.filter(rc=>parseInt(rc.categoryId)===id)
+    res.send(filtered)
 })
 app.listen(port,()=>{
     console.log(`server is running at ${port}`)
